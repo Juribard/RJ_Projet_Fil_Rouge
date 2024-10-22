@@ -10,11 +10,12 @@ main {
 .couleur_texte2 {
     margin-top: -55px;
     color: #1bd79e;
-    font-size: 50px
+    font-size: 50px;
+    
 }
 
 .intro {
-    color: #e5e5e5;
+    color: #808080;
     padding-right: 50%;
     font-family: Montserrat;
 }
