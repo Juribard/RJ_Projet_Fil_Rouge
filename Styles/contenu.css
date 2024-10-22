@@ -12,7 +12,6 @@ main {
     margin-top: -55px;
     color: #1bd79e;
     font-size: 50px;
-    
 }
 
 .intro {
@@ -24,6 +23,7 @@ main {
 .bouton_nav {
     display: flex;
     justify-content: center;
+    margin-bottom: 20px;
 }
 .lien_actif {
     background-color: #1bd79e;
