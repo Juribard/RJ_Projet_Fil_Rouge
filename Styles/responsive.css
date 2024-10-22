@@ -1,3 +1,4 @@
+/*Fichier de style servant à la mise en place de la capacité responsive de index.html*/
 /*responsive tablette et tel*/
 @media screen and (max-width: 1024px) {
     main {
