@@ -1,6 +1,6 @@
 /*Contenu de index.html*/
 main {
-    margin: 0px 150px 0px 150px;
+    margin: 0 20% 0px 20%;
 }
 
 .presentation {
@@ -16,20 +16,21 @@ main {
 
 .intro {
     color: #808080;
-    padding-right: 50%;
+    padding-right: 39%;
+    font-size: 13px;
     font-family: Montserrat;
 }
 
 .bouton_nav {
     display: flex;
     justify-content: center;
-    margin-bottom: 20px;
 }
 .lien_actif {
     background-color: #1bd79e;
     margin: 5px;
     padding: 5px;
     text-decoration: none;
+    font-size: 13px;
     font-family: Montserrat;
 }
 
@@ -37,6 +38,7 @@ main {
     margin: 5px;
     padding: 5px;
     text-decoration: none;
+    font-size: 13px;
     font-family: Montserrat;
 }
 
@@ -47,5 +49,8 @@ main {
     flex-wrap: wrap;
 }
 .photo_ind {
+    margin: 5px;
+}
+.photo_cache {
     margin: 5px;
 }

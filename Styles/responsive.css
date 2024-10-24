@@ -1,5 +1,11 @@
 /*Fichier de style servant à la mise en place de la capacité responsive de index.html*/
-/*responsive tablette et tel*/
+/*ecran autres*/
+@media screen and (min-width: 1815px) {
+    main {
+        margin: 0 25% 0 25%;
+    }
+}
+/*responsive tablette*/
 @media screen and (max-width: 1024px) {
     main {
         margin: 0 50px 0 50px;
@@ -17,15 +23,28 @@
         margin: 0 10px 0 10px;
     }
     .intro {
-        padding-right: 30%;
-        font-size: 15px;
+        padding-right: 15%;
+        font-size: 20px;
+    }
+    .lien_actif {
+        font-size: 20px;
+    }
+    .lien_inactif {
+        font-size: 20px;
+    }
+    .bouton_nav {
+        margin: 40px 0 40px 0;
     }
     .photo_ind {
-        width: 160px;
+        width: 120px;
+    }
+    .photo_cache {
+        width: 120px;
+        margin: 5px;
     }
 }
 /*responsive tel*/
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 500px) {
     h1 {
         font-size: 30px;
     }
@@ -44,27 +63,36 @@
     }
     .presentation {
         font-size: 35px;
-        padding-right: 10%;
+        padding-right: 20%;
     }
+    .bouton_nav {
+        margin-top: 30px;
+    }
+
     .couleur_texte2 {
         font-size: 35px;
     }
     .intro {
         padding-right: 0%;
-        font-size: 15px;
+        font-size: 25px;
     }
     .lien_actif {
-        font-size: 12px;
+        font-size: 15px;
         margin: 3px;
     }
     .lien_inactif {
-        font-size: 12px;
+        font-size: 15px;
         margin: 3px;
     }
     .photo {
-        margin: 0px;
+        margin: 30px 0 30px 0;
+        display: flex;
+        justify-content: center;
     }
     .photo_ind {
-        width: 100px;
+        width: 120px;
+    }
+    .photo_cache {
+        display: none;
     }
 }
