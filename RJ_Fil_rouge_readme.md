@@ -26,9 +26,11 @@ index.html
 ### Responsive:
 
 • tablette: iPad Air:
+
 ![](Images/screan_ipad_air.png)
 
-• telephone: iPhone 14 Pro Max
+• telephone: iPhone 14 Pro Max:
+
 ![](Images/scean_iphone_14_pro_max.png)
 
 
