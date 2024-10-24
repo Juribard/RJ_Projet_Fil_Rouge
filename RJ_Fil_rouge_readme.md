@@ -2,7 +2,7 @@ Julien RIBARDIERE
 
 # Projet "Fil rouge"
 
-Dans le cadre d'un de R109 en BUT Réseaux et Telecommunications, réalisation d'imitation d'une page internet (fournie en annexe) avec l'utilisation des langages HTML et CSS.
+Dans le cadre d'un de R109 en BUT Réseaux et Télécommunications, réalisation d'imitation d'une page internet (fournie en annexe) avec l'utilisation des langages HTML et CSS.
 
 Le dossier rendu est constitué de:
 ````
