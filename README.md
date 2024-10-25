@@ -23,3 +23,7 @@ index.html
 ````
 
 Lien du site: https://juribard.github.io/RJ_Projet_Fil_Rouge/
+
+Date de création: 21/10/2024
+
+Dernière mise à jour: 25/10/2024
