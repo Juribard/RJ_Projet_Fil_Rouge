@@ -14,6 +14,8 @@ index.html
 -contenu.css
 -responsive.css
 
+• 1 dossier Images
+
 • 2 annexes:
 - Projet_fil_rouge-Annexe.pdf
 - Resultat_théorique_responsive
