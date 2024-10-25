@@ -14,9 +14,6 @@ index.html
 -contenu.css
 -responsive.css
 
-• 1 fichier Readme:
--RJ_Fil_rouge_readme.md
-
 • 2 annexes:
 - Projet_fil_rouge-Annexe.pdf
 - Resultat_théorique_responsive
